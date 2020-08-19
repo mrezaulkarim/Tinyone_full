@@ -25,7 +25,7 @@ header {
 .menu ul li a {
 	font-weight: 700;
 	font-size: 22px;
-    color: #898989 !important;
+    color: #010101 !important;
     text-transform: capitalize;
     padding: 0 55px !important;
     transition: all .3s ease-in-out;
@@ -34,7 +34,7 @@ header {
 	padding-right: 0 !important;
 }
 .menu ul li:hover a {
-	color: #010101 !important;
+	color: #ffffff !important;
 	transition: all .3s ease-in-out;
 }
 /* Slider */
@@ -175,11 +175,11 @@ form {
 }
 .social-media ul li a i {
 	background: #fcdb00;
-	width: 40px;
-	height: 40px;
+	width: 35px;
+	height: 35px;
 	border-radius: 10%;
-	line-height: 40px;
-	font-size: 30px;
+	line-height: 35px;
+	font-size: 20px;
 	color: #000000;
 	text-align: center;
 	margin: 0 15px;
